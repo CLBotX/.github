@@ -1,7 +1,4 @@
-# CLBotX.github.io
-
-
-# 📂 CLBotX
+![](https://avatars.githubusercontent.com/u/227066676?s=200&v=4)
 
 **Continual Learning for Robotics** — A unified suite exploring how online adaptation and lifelong learning enable robots to remain robust in dynamic, unstructured environments.
 
